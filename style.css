@@ -1,10 +1,19 @@
+ html {
+        scroll-behavior: smooth;
+    }
+
+.navbar-brand {
+    color: magenta;
+}
+
 .font-weight-light {
-    color: black;
+    color: deeppink;
+    font-weight: bolder;
     font-size: 75px;
 }
 
 .lead {
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 
@@ -15,6 +24,5 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  
-    
+ 
    
