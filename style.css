@@ -2,9 +2,7 @@
         scroll-behavior: smooth;
     }
 
-.navbar-brand {
-    color: magenta;
-}
+
 
 .font-weight-light {
     color: #000000;
@@ -13,28 +11,16 @@
    
 }
 
-.lead {
-    
-    font-size: 
-}
 
 
-.masthead {
-  height: 100vh;
-  min-height: 500px;
-  background-image: url('homepage.jpg');
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.homepageImage {
-    height: 100vh;
-  max-height: 500px;
-  background-image: url('homepage.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
  
    
