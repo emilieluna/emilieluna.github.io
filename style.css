@@ -11,6 +11,12 @@
    
 }
 
+.navbar-brand {
+   font-family: 'Indie Flower', cursive;
+    color: pink !important;
+    font-size: 33px !important;
+}
+
 
 
 .carousel-item {
