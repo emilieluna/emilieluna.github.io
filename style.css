@@ -23,7 +23,7 @@
 }
 
 .homepageImages {
-    max-height: 600px;
+    max-height: 500px;
 }
 
 
@@ -41,6 +41,13 @@
     font-family: 'futura-pt', sans-serif;
     font-size: 45px !important;
 }
- 
+.py-5 {
+    background-color: #ffffff;
+}
 
+
+.btn .btn-primary .btn-lg
+{
+    background-color: #fadee7 !important;
+}
    
