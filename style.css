@@ -5,18 +5,26 @@
 
 
 .font-weight-light {
-    color: #000000;
-    font-weight: bolder;
     font-size: 50px;
-   
+    font-family: 'Lora', serif;
+     font-weight: 300;
+     font-style: normal;
+    
 }
 
-.navbar-brand {
-   font-family: 'Indie Flower', cursive;
-    color: pink !important;
-    font-size: 33px !important;
+.headerText {
+    text-align: center;
+    color: #fb486e;
+    font-size: 80px;
+    font-family: 'futura-pt', sans-serif;
+    font-weight: 500;
+
+
 }
 
+.homepageImages {
+    max-height: 600px;
+}
 
 
 .carousel-item {
@@ -28,5 +36,11 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+.lead {
+    font-family: 'futura-pt', sans-serif;
+    font-size: 45px !important;
+}
  
+
    

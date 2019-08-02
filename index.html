@@ -11,45 +11,68 @@
 
     <title>Emilie Luna Website</title>
       
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Volkhov&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Beth+Ellen|Euphoria+Script|IBM+Plex+Sans|Nanum+Myeongjo&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Lato|Raleway|Roboto|Tangerine&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://use.typekit.net/cmj1sir.css">
+      <link href="https://fonts.googleapis.com/css?family=Libre+Caslon+Text&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet">
+      
   </head>
   <body>
+  
+      <Div class="container">
+   <header>
+       <h1 class="headerText">emilie luna creative</h1>
+      </header>  
+</Div>
       
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
-  <div class="container">
-    <a class="navbar-brand" href="#">emilie luna</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Home
-                <span class="sr-only">(current)</span>
-              </a>
-        </li>
+<div class="container">     
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #ffffff;">
+  <a class="navbar-brand" href="#"><!-- insert text here --></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About Me</a>
+      </li>
+         <li class="nav-item">
+        <a class="nav-link" href="#">Websites</a>
+      </li>
+         <li class="nav-item">
+        <a class="nav-link" href="#">Rock Climbing</a>
+      </li>
         <li class="nav-item">
-          <a class="nav-link" href="#AboutMeJump">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Web Development</a>
-        </li>
-        
-           <li class="nav-item">
-          <a class="nav-link" href="#">Rock Climbing</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
-        </li>
-      </ul>
-    </div>
+        <a class="nav-link" href="#">Contact</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+    
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
   </div>
-    
-    
 </nav>
+    </div> 
 
 <header>
+    <div class="container-fluid">
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -88,16 +111,28 @@
           <span class="sr-only">Next</span>
         </a>
   </div>
-</header>
+</div>
+    </header>
 
 <!-- Page Content -->
 <section class="py-5">
-  <div class="container">
-    <h1 class="font-weight-light">Hello, my name is Emilie</h1>
-    <p class="lead"> {<br>web developer, designer, rock climber<br>}</p>
-  </div>
-</section>
+
       
+      <div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-4">
+            <h1 class="font-weight-light">Hello, my name is <span style="color:#fb486e;">Emilie</span></h1>
+      <p class="lead"><br> <span style="color:#fb486e;">{<br></span>web developer,<br> designer,<br> rock climber<br><span style="color:#fb486e;">}</span></p>
+        </div>
+        <div class="col-lg-4">
+            <img class="homepageImages" src="images/nice.JPG">
+        </div>
+        <div class="col-lg-4">
+            <img class="homepageImages" src="images/nice2.JPG">
+        </div>
+    </div>
+</div>
+      </section>
       
       
    
