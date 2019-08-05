@@ -12,6 +12,7 @@
     font-family: 'Lora', serif;
      font-weight: 300;
      font-style: normal;
+    color: black;
     
 }
 
@@ -58,7 +59,13 @@
 }
 
 .contactFormSection {
-    background-color: #FBD7EC;
+    background-color: #F4EEE1;
     font-family: 'futura-pt', sans-serif;
-    color: white;
+    color: black;
+}
+
+
+
+.secondSectionColor {
+    background-color: white !important;
 }
