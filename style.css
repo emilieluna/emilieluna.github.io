@@ -54,8 +54,11 @@
 .contactHeader {
     color: #ffffff;
     text-align: left;
+    font-family: 'Lora', serif;
 }
 
 .contactFormSection {
     background-color: #FBD7EC;
+    font-family: 'futura-pt', sans-serif;
+    color: white;
 }
