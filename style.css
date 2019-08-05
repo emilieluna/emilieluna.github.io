@@ -3,12 +3,12 @@
     }
 
 .lightPink, .navbar {
-    background-color: #FBD7EC !important;
+    background-color: white !important;
 }
 
 
 .font-weight-light {
-    font-size: 50px;
+    font-size: 30px;
     font-family: 'Lora', serif;
      font-weight: 300;
      font-style: normal;
@@ -18,8 +18,8 @@
 
 .headerText {
     text-align: center;
-    color: #ffffff;
-    font-size: 80px;
+    color: #fb486e;
+    font-size: 50px;
     font-family: 'futura-pt', sans-serif;
     font-weight: 500;
 
@@ -53,15 +53,15 @@
 
    
 .contactHeader {
-    color: black;
+    color: white;
     text-align: left;
     font-family: 'Lora', serif;
 }
 
-.contactFormSection {
-    background-color: #F4EEE1;
+#contactFormSection {
+    background-color: #fb486e !important;
     font-family: 'futura-pt', sans-serif;
-    color: black;
+    color: white;
 }
 
 
