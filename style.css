@@ -46,7 +46,13 @@
 }
 
 
-.btn .btn-primary .btn-lg {
-    background-color: #000000 !important;
-}
+
    
+.contactHeader {
+    color: #fb486e;
+    text-align: left;
+}
+
+.contactFormSection {
+    background-color: white;
+}
