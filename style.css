@@ -2,6 +2,9 @@
         scroll-behavior: smooth;
     }
 
+.lightPink, .navbar {
+    background-color: #FBD7EC !important;
+}
 
 
 .font-weight-light {
@@ -14,7 +17,7 @@
 
 .headerText {
     text-align: center;
-    color: #fb486e;
+    color: #ffffff;
     font-size: 80px;
     font-family: 'futura-pt', sans-serif;
     font-weight: 500;
@@ -49,10 +52,10 @@
 
    
 .contactHeader {
-    color: #fb486e;
+    color: #ffffff;
     text-align: left;
 }
 
 .contactFormSection {
-    background-color: white;
+    background-color: #FBD7EC;
 }
