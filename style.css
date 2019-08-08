@@ -16,6 +16,7 @@
     
 }
 
+
 .headerText {
     text-align: center;
     color: #fb486e;
@@ -25,6 +26,7 @@
 
 
 }
+
 
 .homepageImages {
     max-height: 500px;
@@ -41,6 +43,9 @@
   background-size: cover;
 }
 
+.navbar {
+    float: right !important;
+}
 
 .lead {
     font-family: 'futura-pt', sans-serif;
