@@ -43,8 +43,8 @@
 
 
 .lead {
-    font-family: 'Sacramento', cursive;
-    font-size: 50px !important;
+    font-family: 'futura-pt', sans-serif;
+    font-size: 40px !important;
     text-align: left;
 }
 .py-5 {
@@ -57,8 +57,8 @@
 .contactHeader {
     color: white;
     text-align: left;
-    font-family: 'Sacramento', cursive;
-    font-size: 80px;
+    font-family: 'futura-pt', sans-serif;
+    font-size: 50px;
 }
 
 #contactFormSection {
@@ -78,8 +78,8 @@
 .animated-words {
     
     font-size: 80px;
-    display: inline-block;
-    font-family: 'futura-pt', sans-serif;
+    display: left;
+    font-family: 'Nothing You Could Do', cursive;
 }
 
 .animated-words span:nth-child(2) { 
