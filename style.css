@@ -143,6 +143,7 @@ body {
 	opacity:0.8;
 	-moz-opacity:0.8;
 	-webkit-opacity:0.8;
+    display: inline-block;
 }
 
 .followMeText {
@@ -151,5 +152,9 @@ body {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.brandDisplay {
+    float: left;
 }
 
