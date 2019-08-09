@@ -138,6 +138,7 @@
 
 .animated-words span {
     position: absolute;
+    text-align: center !important;
     opacity: 0;
     overflow: hidden;
     color: #fb486e;
