@@ -74,7 +74,6 @@
 .lead {
     font-family: 'futura-pt', sans-serif;
     font-size: 40px !important;
-    text-align: left;
 }
 .py-5 {
     background-color: #ffffff;
@@ -138,7 +137,10 @@
 
 .animated-words span {
     position: absolute;
-    text-align: center !important;
+    top: 0px; 
+    right: 0;
+    left: 0;
+    height: 100px;
     opacity: 0;
     overflow: hidden;
     color: #fb486e;
