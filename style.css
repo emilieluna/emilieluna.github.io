@@ -18,7 +18,7 @@
 
 
 .headerText {
-    color: #fb486e;
+   color: black;
     font-size: 25px;
     font-family: 'futura-pt', sans-serif;
     font-weight: 900;
@@ -136,16 +136,16 @@
 
    
 .contactHeader {
-    color: white;
+    color: black;
     text-align: left;
     font-family: 'futura-pt', sans-serif;
     font-size: 50px;
 }
 
 .contactFormSection {
-    background-color: #fb486e !important;
+    background-color: #FEEAFD   !important;
     font-family: 'futura-pt', sans-serif;
-    color: white;
+    color: black;
 }
 
 
@@ -185,31 +185,31 @@
     -webkit-animation-delay: 3s; 
     -ms-animation-delay: 3s; 
     animation-delay: 3s; 
-    color: #fb486e;
+    color: #39ff14;
 }
 .animated-words span:nth-child(3) { 
     -webkit-animation-delay: 6s; 
     -ms-animation-delay: 6s; 
     animation-delay: 6s; 
-    color: #fb486e;
+    color: #39ff14;
 }
 .animated-words span:nth-child(4) { 
     -webkit-animation-delay: 9s; 
     -ms-animation-delay: 9s; 
     animation-delay: 9s; 
-    color: #fb486e;
+    color: #39ff14;
 }
 .animated-words span:nth-child(5) { 
     -webkit-animation-delay: 12s; 
     -ms-animation-delay: 12s; 
     animation-delay: 12s; 
-    color: #fb486e;
+    color: #39ff14;
 }
 .animated-words span:nth-child(6) { 
     -webkit-animation-delay: 15s; 
     -ms-animation-delay: 15s; 
     animation-delay: 15s; 
-    color: #fb486e;
+    color: #39ff14;
 }
 
 
@@ -217,7 +217,7 @@
     position: absolute;
     opacity: 0;
     overflow: hidden;
-    color: #fb486e;
+    color: #39ff14;
     -webkit-animation: animateWord 18s linear infinite 0s;
     -ms-animation: animateWord 18s linear infinite 0s;
     animation: animateWord 18s linear infinite 0s;
