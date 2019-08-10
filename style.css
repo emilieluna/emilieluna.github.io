@@ -59,12 +59,37 @@
 
 
 .carousel-item {
-  height: 30vh !important;
+  height: 25vh;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+@media (min-width: 576px){
+    .carousel-item {
+         height: 25vh;
+    }
+}
+
+@media (min-width: 768px) { 
+   .carousel-item {
+         height: 45vh;
+    }
+}
+
+@media (min-width: 992px) { 
+    .carousel-item {
+         height: 45vh;
+    }
+}
+
+
+@media (min-width: 1200px) {
+   .carousel-item {
+         height: 45vh;
+    }
 }
 
 .navbar {
