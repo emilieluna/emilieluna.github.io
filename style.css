@@ -135,12 +135,38 @@
 
 
    
-.contactHeader {
+.specialHeader {
     color: black;
     text-align: left;
     font-family: 'futura-pt', sans-serif;
-    font-size: 50px;
+    font-size: 40px;
 }
+
+@media (min-width: 576px){
+    .specialHeader {
+         font-size: 40px;
+    }
+}
+
+@media (min-width: 768px) { 
+     .specialHeader {
+         font-size: 50px;
+    }
+}
+
+@media (min-width: 992px) { 
+      .specialHeader{
+         font-size: 60px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+     .specialHeader {
+         font-size: 60px;
+    }
+}
+
 
 .contactFormSection {
     background-color: #FEEAFD   !important;
