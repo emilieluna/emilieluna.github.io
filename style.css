@@ -2,9 +2,36 @@
         scroll-behavior: smooth;
     }
 
-.lightPink, .navbar {
-    background-color: white !important;
+.navbar-brand {
+    font-size: 50px !important;
 }
+
+@media (min-width: 576px){
+    .navbar-brand {
+    font-size: 50px !important;
+    }
+}
+
+@media (min-width: 768px) { 
+   .navbar-brand {
+    font-size: 50px !important;
+    }
+}
+
+@media (min-width: 992px) { 
+    .navbar-brand {
+    font-size: 60px !important;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .navbar-brand {
+    font-size: 70px !important;
+    }
+}
+
+
 
 
 .font-weight-light {
@@ -169,7 +196,7 @@
 
 
 .contactFormSection {
-    background-color: #FEEAFD   !important;
+    background-color: #FFF4F9   !important;
     font-family: 'futura-pt', sans-serif;
     color: black;
 }
