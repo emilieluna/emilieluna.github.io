@@ -86,7 +86,7 @@
 
 
 .carousel-item {
-  height: 35vh;
+  height: 40vh;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -96,7 +96,7 @@
 
 @media (min-width: 576px){
     .carousel-item {
-         height: 35vh;
+         height: 40vh;
     }
 }
 
