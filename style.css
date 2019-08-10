@@ -102,20 +102,20 @@
 
 @media (min-width: 768px) { 
    .carousel-item {
-         height: 45vh;
+         height: 50vh;
     }
 }
 
 @media (min-width: 992px) { 
     .carousel-item {
-         height: 45vh;
+         height: 50vh;
     }
 }
 
 
 @media (min-width: 1200px) {
    .carousel-item {
-         height: 45vh;
+         height: 55vh;
     }
 }
 
