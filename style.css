@@ -114,7 +114,7 @@
 
 .lead {
     font-family: 'Carrois Gothic-light', sans-serif;
-    font-size: 35px !important;
+    font-size: 30px !important;
     text-align: center;
 }
 @media (min-width: 576px){
@@ -125,20 +125,20 @@
 
 @media (min-width: 768px) { 
     .lead {
-         font-size: 60px !important;
+         font-size: 50px !important;
     }
 }
 
 @media (min-width: 992px) { 
      .lead {
-         font-size: 60px !important;
+         font-size: 50px !important;
     }
 }
 
 
 @media (min-width: 1200px) {
     .lead {
-         font-size: 60px !important;
+         font-size: 55px !important;
     }
 }
 
@@ -155,31 +155,31 @@
     color: black;
     text-align: left;
     font-family: 'Carrois Gothic-light', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 @media (min-width: 576px){
     .specialHeader {
-         font-size: 40px;
+         font-size: 35px;
     }
 }
 
 @media (min-width: 768px) { 
      .specialHeader {
-         font-size: 50px;
+         font-size: 40px;
     }
 }
 
 @media (min-width: 992px) { 
       .specialHeader{
-         font-size: 60px;
+         font-size: 45px;
     }
 }
 
 
 @media (min-width: 1200px) {
      .specialHeader {
-         font-size: 60px;
+         font-size: 45px;
     }
 }
 
