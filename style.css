@@ -33,22 +33,11 @@
 
 
 
-
-.font-weight-light {
-    font-size: 40px;
-    font-family: 'Lora', serif;
-     font-weight: 300;
-     font-style: normal;
-    color: black;
-    
-}
-
-
 .headerText {
    color: black;
     font-size: 25px;
-    font-family: 'futura-pt', sans-serif;
-    font-weight: 900;
+    font-family: 'Carrois Gothic-light', sans-serif;
+    font-weight: 600;
     
 }
 
@@ -124,7 +113,7 @@
 }
 
 .lead {
-    font-family: 'futura-pt', sans-serif;
+    font-family: 'Carrois Gothic-light', sans-serif;
     font-size: 35px !important;
     text-align: center;
 }
@@ -165,7 +154,7 @@
 .specialHeader {
     color: black;
     text-align: left;
-    font-family: 'futura-pt', sans-serif;
+    font-family: 'Carrois Gothic-light', sans-serif;
     font-size: 40px;
 }
 
