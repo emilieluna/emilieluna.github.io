@@ -113,7 +113,7 @@
 }
 
 .lead {
-    font-family: 'Carrois Gothic-light', sans-serif;
+    font-family: 'Carrois Gothic', sans-serif;
     font-size: 30px !important;
     text-align: center;
 }
@@ -154,7 +154,7 @@
 .specialHeader {
     color: black;
     text-align: left;
-    font-family: 'Carrois Gothic-light', sans-serif;
+    font-family: 'Carrois Gothic', sans-serif;
     font-size: 30px;
 }
 
