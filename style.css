@@ -311,31 +311,9 @@ body {
 
 
 .climbingImage {
-    height: 30vh;
-    background-size: cover;
-}
-@media (min-width: 576px){
-   .climbingImage {
-    height: 50vh;
-    }
-}
-
-@media (min-width: 768px) { 
-   .climbingImage {
-    height: 70vh;
-    }
-}
-
-@media (min-width: 992px) { 
-  .climbingImage {
-    height: 80vh;
-    }
-}
-
-@media (min-width: 1200px) {
-  .climbingImage {
-    height: 95vh;
-    }
+  height: auto;
+    width: 100%;
+    
 }
 
 
