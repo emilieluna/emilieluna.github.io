@@ -68,12 +68,6 @@
 
 
 
-
-.homepageImages {
-    max-height: 300px;
-}
-
-
 .carousel-item {
   height: 40vh;
   background: no-repeat center center scroll;
@@ -108,14 +102,10 @@
     }
 }
 
-.navbar {
-    float: right;
-}
-
 .lead {
     font-family: 'Carrois Gothic', sans-serif;
     font-size: 30px !important;
-    text-align: center;
+    
 }
 @media (min-width: 576px){
     .lead {
@@ -194,32 +184,34 @@
  
 .animated-words {
     
-    font-size: 40px;
-    font-family: 'Nothing You Could Do', cursive;
+    display:inline-block;
+    color: #39ff14 !important;
+    
+    
 }
 
 @media (min-width: 576px){
     .animated-words {
-         font-size: 50px;
+         font-size: 40px;
     }
 }
 
 @media (min-width: 768px) { 
      .animated-words {
-         font-size: 60px;
+         font-size: 50px;
     }
 }
 
 @media (min-width: 992px) { 
       .animated-words {
-         font-size: 70px;
+         font-size: 50px;
     }
 }
 
 
 @media (min-width: 1200px) {
      .animated-words {
-         font-size: 80px;
+         font-size: 55px;
     }
 }
 
@@ -256,10 +248,11 @@
 
 
 .animated-words span {
-    position: absolute;
     opacity: 0;
+    position: absolute;
     overflow: hidden;
     color: #39ff14;
+    bottom: 1px;
     -webkit-animation: animateWord 18s linear infinite 0s;
     -ms-animation: animateWord 18s linear infinite 0s;
     animation: animateWord 18s linear infinite 0s;
@@ -275,9 +268,7 @@
     100% { opacity: 0; }
 }
 
-body {
-	padding-top:5vh;
-}
+
 
 .instaimg img {margin-bottom:30px;}
 .instaimg img:hover {
@@ -287,14 +278,8 @@ body {
     display: inline-block;
 }
 
-.followMeText {
-    color: black;
-    font-family: 'futura-pt', sans-serif;
-    text-align: left;
-    margin-top: 20px;
-    margin-bottom: 20px;
-     font-size: 50px;
-}
+
+
 
 
 
