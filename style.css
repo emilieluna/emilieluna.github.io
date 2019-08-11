@@ -310,6 +310,38 @@ body {
 
 
 
+.climbingImage {
+    max-width: 100%;
+}
 
 
+.climbingText {
+    font-family: 'Carrois Gothic', sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+}
+@media (min-width: 576px){
+   .climbingText {
+    font-size: 1.2em;
+    }
+}
+
+@media (min-width: 768px) { 
+   .climbingText {
+    font-size: 1.2em;
+    }
+}
+
+@media (min-width: 992px) { 
+  .climbingText {
+    font-size: 1.3em;
+      text-align: center;
+    }
+}
+
+@media (min-width: 1200px) {
+  .climbingText {
+    font-size: 1.5em;
+    }
+}
 
