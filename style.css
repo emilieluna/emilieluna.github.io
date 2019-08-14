@@ -194,7 +194,7 @@ body {
     display:inline-block;
     color: #39ff14 !important;
     font-size: 1em;
-    text-align: center;
+    
     
     
 }
@@ -275,31 +275,8 @@ body {
 
 p.paragraphText {
     font-family: 'Playfair Display', serif;
-    text-align: center;
-}
-@media (min-width: 576px){
-   p.paragraphText {
-    text-align: center;
-    }
 }
 
-@media (min-width: 768px) { 
-   p.paragraphText {
-    text-align: center;
-    }
-}
-
-@media (min-width: 992px) { 
-  p.paragraphText {
-      text-align: left;
-    }
-}
-
-@media (min-width: 1200px) {
-  p.paragraphText {
-      text-align: left;
-    }
-}
 
 .navbar { 
     font-family: 'Carrois Gothic-light', sans-serif; !important; 
