@@ -133,34 +133,11 @@ body {
 }
 
 .lead {
-    font-family: 'Carrois Gothic', sans-serif;
-    font-size: 30px !important;
+    font-family: 'Playfair Display', serif;
+    font-size: 3em !important;
     
 }
-@media (min-width: 576px){
-    .lead {
-         font-size: 40px !important;
-    }
-}
 
-@media (min-width: 768px) { 
-    .lead {
-         font-size: 50px !important;
-    }
-}
-
-@media (min-width: 992px) { 
-     .lead {
-         font-size: 50px !important;
-    }
-}
-
-
-@media (min-width: 1200px) {
-    .lead {
-         font-size: 55px !important;
-    }
-}
 
 
 
@@ -174,7 +151,7 @@ body {
 .specialHeader {
     color: black;
     text-align: left;
-    font-family: 'Carrois Gothic', sans-serif;
+    font-family: 'Carrois Gothic-light', sans-serif;
     font-size: 30px;
 }
 
@@ -206,7 +183,7 @@ body {
 
 .contactFormSection {
     background-color: #FFF4F9   !important;
-    font-family: 'futura-pt', sans-serif;
+    font-family: 'Playfair Display', serif;
     color: black;
 }
 
@@ -216,34 +193,13 @@ body {
     
     display:inline-block;
     color: #39ff14 !important;
+    font-size: 1em;
+    text-align: center;
     
     
 }
 
-@media (min-width: 576px){
-    .animated-words {
-         font-size: 40px;
-    }
-}
 
-@media (min-width: 768px) { 
-     .animated-words {
-         font-size: 50px;
-    }
-}
-
-@media (min-width: 992px) { 
-      .animated-words {
-         font-size: 50px;
-    }
-}
-
-
-@media (min-width: 1200px) {
-     .animated-words {
-         font-size: 55px;
-    }
-}
 
 .animated-words span:nth-child(2) { 
     -webkit-animation-delay: 3s; 
@@ -317,33 +273,51 @@ body {
 }
 
 
-.climbingText {
-    font-family: 'Carrois Gothic', sans-serif;
-    font-size: 1.2em;
+p.paragraphText {
+    font-family: 'Playfair Display', serif;
     text-align: center;
 }
 @media (min-width: 576px){
-   .climbingText {
-    font-size: 1.2em;
+   p.paragraphText {
+    text-align: center;
     }
 }
 
 @media (min-width: 768px) { 
-   .climbingText {
-    font-size: 1.2em;
+   p.paragraphText {
+    text-align: center;
     }
 }
 
 @media (min-width: 992px) { 
-  .climbingText {
-    font-size: 1.3em;
-      text-align: center;
+  p.paragraphText {
+      text-align: left;
     }
 }
 
 @media (min-width: 1200px) {
-  .climbingText {
-    font-size: 1.5em;
+  p.paragraphText {
+      text-align: left;
     }
 }
 
+.navbar { 
+    font-family: 'Carrois Gothic-light', sans-serif; !important; 
+
+
+}
+
+ul.navbar-nav {
+    
+}
+
+li.nav-item {
+
+}
+
+
+h1.textHeader {
+     font-family: 'Carrois Gothic-light', sans-serif;
+     font-weight: 700;
+    font-size: 2.4em;
+}
