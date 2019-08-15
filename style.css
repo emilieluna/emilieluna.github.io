@@ -72,14 +72,14 @@ font-style: normal;
 
 @media (min-width: 992px) { 
     .carousel-item {
-         height: 90vh;
+         height: 100vh;
     }
 }
 
 
 @media (min-width: 1200px) {
    .carousel-item {
-         height: 90vh;
+         height: 100vh;
     }
 }
 
