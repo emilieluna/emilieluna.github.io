@@ -44,7 +44,7 @@ font-style: normal;
 
 .navbarGreen {
     
-    color: #39ff14 important!;
+    color: #39ff14 !important;
 }
 
 
@@ -139,18 +139,7 @@ font-style: normal;
 
 
  
-.animated-words {
-    
-    display:inline-block;
-    color: #39ff14 !important;
-    font-size: 1.5em;
-    text-align: center;
-    font-family: 'Futura-Pt', sans-serif;
-    font-weight: 300;
-    font-style: normal;
-    
-    
-}
+
 
 
 
@@ -226,18 +215,64 @@ font-style: normal;
 }
 
 
-p.paragraphText {
+h1.leftHeading {
+    font-family: 'Future-Pt', sans-serif;
+font-weight: 600;
+font-style: normal;
+    font-size: 1.5em;
+    text-align: left;
+   
+   
+}
+
+h1.centerHeading {
+    font-family: 'Future-Pt', sans-serif;
+font-weight: 600;
+font-style: normal;
+    font-size: 1.7em;
+    text-align: center;
+    
+   
+}
+
+
+p.leftText {
     font-family: 'Futura-Pt', sans-serif;
 font-weight: 300;
 font-style: normal;
 }
 
-p.paragraphTextContact {
+p.centerText {
     font-family: 'Futura-Pt', sans-serif;
 font-weight: 300;
 font-style: normal;
     text-align: center;
+    font-size: 1em;
 }
+
+.centerText {
+     font-family: 'Futura-Pt', sans-serif;
+font-weight: 300;
+font-style: normal;
+    text-align: center;
+    font-size: 1.75em
+}
+
+
+.animated-words {
+    
+    display:inline-block;
+    color: #39ff14 !important;
+    text-align: center;
+    font-family: 'Futura-Pt', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.75em;
+    
+    
+}
+
+
 
 
 .navbar { 
@@ -255,24 +290,9 @@ li.nav-item {
 }
 
 
-h1.textHeader {
-    font-family: 'Future-Pt', sans-serif;
-font-weight: 600;
-font-style: normal;
-    font-size: 1.7em;
-    text-align: center;
-   
-}
 
-h1.textHeaderCode {
-    font-family: 'Future-Pt', sans-serif;
-font-weight: 600;
-font-style: normal;
-    font-size: 1.7em;
-    text-align: left;
-   
-   
-}
+
+
 
 .buttonSpecial {
     font-family: 'Futura-Pt', sans-serif !important;
