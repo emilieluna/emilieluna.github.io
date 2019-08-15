@@ -50,7 +50,7 @@ font-style: normal;
 
 
 .carousel-item {
-  height: 50vh;
+  height: 90vh;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -60,26 +60,26 @@ font-style: normal;
 
 @media (min-width: 576px){
     .carousel-item {
-         height: 50vh;
+         height: 90vh;
     }
 }
 
 @media (min-width: 768px) { 
    .carousel-item {
-         height: 60vh;
+         height: 100vh;
     }
 }
 
 @media (min-width: 992px) { 
     .carousel-item {
-         height: 70vh;
+         height: 100vh;
     }
 }
 
 
 @media (min-width: 1200px) {
    .carousel-item {
-         height: 80vh;
+         height: 100vh;
     }
 }
 
@@ -216,7 +216,7 @@ font-style: normal;
 
 
 h1.leftHeading {
-    font-family: 'Future-Pt', sans-serif;
+    font-family: 'Futura-Pt', sans-serif;
 font-weight: 600;
 font-style: normal;
     font-size: 1.5em;
@@ -226,7 +226,7 @@ font-style: normal;
 }
 
 h1.centerHeading {
-    font-family: 'Future-Pt', sans-serif;
+    font-family: 'Futura-Pt', sans-serif;
 font-weight: 600;
 font-style: normal;
     font-size: 1.7em;
