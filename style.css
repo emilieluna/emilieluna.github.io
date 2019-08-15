@@ -66,8 +66,10 @@ body {
 .headerText {
    color: black;
     font-size: 25px;
-    font-family: 'Carrois Gothic-light', sans-serif;
-    font-weight: 600;
+   font-family: 'Futura-Pt', sans-serif;
+font-weight: 500;
+font-style: normal;
+    
     
 }
 
@@ -133,9 +135,11 @@ body {
 }
 
 .lead {
-    font-family: 'Playfair Display', serif;
     font-size: 3em !important;
     text-align: center;
+    font-family: 'Futura-Pt', sans-serif;
+font-weight: 300;
+font-style: normal;
     
 }
 
@@ -152,8 +156,10 @@ body {
 .specialHeader {
     color: black;
     text-align: left;
-    font-family: 'Carrois Gothic-light', sans-serif;
     font-size: 30px;
+    font-family: 'Futura-Pt', sans-serif;
+font-weight: 300;
+font-style: normal;
 }
 
 @media (min-width: 576px){
@@ -184,8 +190,10 @@ body {
 
 .contactFormSection {
     background-color: #FFF4F9   !important;
-    font-family: 'Playfair Display', serif;
     color: black;
+    font-family: 'Futura-Pt', sans-serif;
+font-weight: 300;
+font-style: normal;
 }
 
 
@@ -196,6 +204,9 @@ body {
     color: #39ff14 !important;
     font-size: 3em;
     text-align: center;
+    font-family: 'Futura-Pt', sans-serif;
+font-weight: 300;
+font-style: normal;
     
     
 }
@@ -275,12 +286,14 @@ body {
 
 
 p.paragraphText {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Futura-Pt', sans-serif;
+font-weight: 300;
+font-style: normal;
 }
 
 
 .navbar { 
-    font-family: 'Carrois Gothic-light', sans-serif; !important; 
+    font-family: 'Futura-PT', sans-serif !important; 
 
 
 }
@@ -295,11 +308,13 @@ li.nav-item {
 
 
 h1.textHeader {
-     font-family: 'Carrois Gothic-light', sans-serif;
-     font-weight: 700;
+    font-family: 'Futura-Pt', sans-serif;
+font-weight: 400;
+font-style: normal;
     font-size: 2.4em;
 }
 
 .buttonSpecial {
-    font-family: 'Carrois Gothic-light', sans-serif;
+    font-family: 'Futura-Pt', sans-serif !important;
+font-weight: 500 !important;
 }
