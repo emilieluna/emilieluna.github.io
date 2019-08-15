@@ -1,4 +1,6 @@
-
+body {
+    margin-top: 5em;
+}
 
 .navbar-brand {
     font-size: 1.5em !important;
@@ -38,6 +40,11 @@ font-weight: 500;
 font-style: normal;
     
     
+}
+
+.navbarGreen {
+    
+    color: #39ff14 important!;
 }
 
 
@@ -83,10 +90,12 @@ font-style: normal;
 font-weight: 300;
 font-style: normal;
     
+    
+    
 }
 @media (min-width: 576px){
     .lead {
-    font-size: 1.5em !important;
+    font-size: 1.5em  !important;
     }
 }
 
@@ -118,41 +127,13 @@ font-style: normal;
 
 
 
-   
-
-
-@media (min-width: 576px){
-    .specialHeader {
-         font-size: 35px;
-    }
-}
-
-@media (min-width: 768px) { 
-     .specialHeader {
-         font-size: 40px;
-    }
-}
-
-@media (min-width: 992px) { 
-      .specialHeader{
-         font-size: 45px;
-    }
-}
-
-
-@media (min-width: 1200px) {
-     .specialHeader {
-         font-size: 45px;
-    }
-}
-
 
 .contactFormSection {
     background-color: #FFffff  !important;
     color: black;
     font-family: 'Futura-Pt', sans-serif;
-font-weight: 100;
-font-style: normal;
+    font-weight: 100;
+    font-style: normal;
     
 }
 
@@ -165,8 +146,8 @@ font-style: normal;
     font-size: 1.5em;
     text-align: center;
     font-family: 'Futura-Pt', sans-serif;
-font-weight: 300;
-font-style: normal;
+    font-weight: 300;
+    font-style: normal;
     
     
 }
@@ -276,10 +257,21 @@ li.nav-item {
 
 h1.textHeader {
     font-family: 'Future-Pt', sans-serif;
-font-weight: 900;
+font-weight: 600;
 font-style: normal;
-    font-size: 2em;
-   text-align: center;
+    font-size: 1.7em;
+    text-align: center;
+   
+}
+
+h1.textHeaderCode {
+    font-family: 'Future-Pt', sans-serif;
+font-weight: 600;
+font-style: normal;
+    font-size: 1.7em;
+    text-align: left;
+   
+   
 }
 
 .buttonSpecial {
