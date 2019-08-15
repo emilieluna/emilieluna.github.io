@@ -148,11 +148,12 @@ font-style: normal;
 
 
 .contactFormSection {
-    background-color: #FFF4F9   !important;
+    background-color: #FFffff  !important;
     color: black;
     font-family: 'Futura-Pt', sans-serif;
-font-weight: 300;
+font-weight: 100;
 font-style: normal;
+    margin-top: 6em
 }
 
 
@@ -268,13 +269,16 @@ li.nav-item {
 
 h1.textHeader {
     font-family: 'Future-Pt', sans-serif;
-font-weight: 400;
+font-weight: 900;
 font-style: normal;
-    font-size: 1.5em;
+    font-size: 2em;
+   text-align: center;
 }
 
 .buttonSpecial {
     font-family: 'Futura-Pt', sans-serif !important;
 font-weight: 500 !important;
 }
+
+
 
