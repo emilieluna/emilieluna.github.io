@@ -317,4 +317,7 @@ text-decoration: none !important;
 }
 
 
-
+#cert1 {
+    width: 100%;
+    height: auto;
+}
