@@ -320,5 +320,26 @@ text-decoration: none !important;
     height: auto;
 }
 
+.imageAbout {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+.myOwnColor {
+  color: black  !important; // 
+}
+
+
+.masthead {
+  height: 90vh;
+  min-height: auto;
+  background-image: url('/images/about3.JPG');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 
 
