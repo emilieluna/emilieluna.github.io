@@ -364,7 +364,11 @@ text-decoration: none !important;
   .masthead {
   height: 50vh;
     }
+    
 }
 
 
+.custom {
+    width: 6em;
+}
 
