@@ -1,5 +1,5 @@
 body {
-    margin-top: 5em;
+    margin-top: 80px !important;
 }
 
 .navbar-brand {
@@ -355,14 +355,14 @@ text-decoration: none !important;
 
 @media (min-width: 992px) { 
  .masthead {
-  height: 50vh;
+  height: 60vh;
     }
 }
 
 
 @media (min-width: 1200px) {
   .masthead {
-  height: 50vh;
+  height: 60vh;
     }
     
 }
