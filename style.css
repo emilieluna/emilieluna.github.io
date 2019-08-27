@@ -248,6 +248,14 @@ font-style: normal;
     font-size: 1em;
 }
 
+p.centerTextFooter {
+    font-family: 'Futura-Pt', sans-serif;
+font-weight: 300;
+font-style: normal;
+    text-align: center;
+    font-size: .9em;
+}
+
 .centerText {
      font-family: 'Futura-Pt', sans-serif;
 font-weight: 300;
